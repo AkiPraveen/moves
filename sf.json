@@ -1,0 +1,22 @@
+{
+    "cocktail-bars": [
+        {
+            "name": "The Beehive",
+            "yelp-url": "https://www.yelp.com/biz/the-beehive-san-francisco-2", 
+            "amexConciergeReservable": false,
+            "reservable": false,
+            "specialInformation": "Don't get the Ceviche"
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Saru Sushi",
+            "yelp-url": "https://www.yelp.com/biz/saru-sushi-bar-noe-valley-san-francisco-3",
+            "price": "$$",
+            "amexConciergeReservable": false,
+            "reservable": false,
+            "specialInformation": "Salmon omakase is FIRE"
+        }
+    ]
+}
+

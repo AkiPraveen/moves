@@ -1,0 +1,12 @@
+{
+    "lounges": [
+        {
+            "name": "The Berkshire Room",
+            "yelp-url": "https://www.yelp.com/biz/the-berkshire-room-chicago",
+            "amexConciergeReservable": true,
+            "reservable": true,
+            "specialInformation": "Upscale, good atmosphere for talking without being bothered by other groups"
+        }
+    ]
+}
+
